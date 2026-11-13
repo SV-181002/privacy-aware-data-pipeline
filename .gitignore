@@ -1,0 +1,18 @@
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
+
+# Local databases
+*.db
+*.sqlite
+*.sqlite3
+
+# Generated datasets
+data/
+
+# Local reports
+reports/
+
+# Environment files
+.env
+.venv/
